@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alireza Khayami
+- 👀 I’m interested in just anything about coding
+- 🌱 I’m currently learning anything about web development 
+- 📫 How to reach me = khayami.alr@gmail.com
